@@ -1,0 +1,23 @@
+{
+  "name": "kep-node",
+  "version": "1.0.0",
+  "description": "[kep_data.csv](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyhfe/kep-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyhfe/kep-node/issues"
+  },
+  "homepage": "https://github.com/cyhfe/kep-node#readme",
+  "dependencies": {
+    "csv-parse": "^4.16.3"
+  }
+}
